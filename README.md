@@ -1,0 +1,2 @@
+# Quantum-Entangled-Ontology-The-Ontology-of-the-Simulated-Universe-v0.5-2025-
+This project develops a unified informational ontology connecting physics, consciousness, and ethics under a quantum entanglement framework. Version 0.5 formalizes the Φ (consciousness), M (moral coherence), and Ω (cosmic fitness) operators, proposing testable relationships between informational coherence, suffering, and persistence.
