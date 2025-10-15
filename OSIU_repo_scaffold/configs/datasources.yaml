@@ -1,0 +1,18 @@
+
+worldbank:
+  indicators:
+    - code: GE.EST
+      name: Government Effectiveness
+    - code: RL.EST
+      name: Rule of Law
+  countries: ["USA","GBR","CAN","DEU","FRA","JPN"]
+  start_year: 2000
+  end_year: 2024
+
+owid:
+  energy_csv_url: https://raw.githubusercontent.com/owid/energy-data/master/owid-energy-data.csv
+
+manual_expected:
+  - ucdp_conflict.csv
+  - happiness_index.csv
+  - diversity_index.csv

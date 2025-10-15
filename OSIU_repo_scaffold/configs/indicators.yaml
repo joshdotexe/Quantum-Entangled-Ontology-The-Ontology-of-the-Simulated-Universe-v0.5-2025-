@@ -1,0 +1,25 @@
+
+output:
+  interim_dir: data/interim
+  processed_dir: data/processed
+  epsilon: 0.05
+
+latents:
+  kappa:
+    direction: positive
+    indicators:
+      - { id: worldbank_GE.EST, weight: 1.0 }   # Government Effectiveness
+  sigma:
+    direction: negative
+    indicators:
+      - { id: ucdp_conflict, weight: 0.6 }
+      - { id: happiness_inverse, weight: 0.4 }  # 1 - normalized happiness
+  rho:
+    direction: positive
+    indicators:
+      - { id: worldbank_RL.EST, weight: 1.0 }   # Rule of Law
+  phi:
+    direction: positive
+    indicators:
+      - { id: diversity_index, weight: 1.0 }    # Placeholder
+

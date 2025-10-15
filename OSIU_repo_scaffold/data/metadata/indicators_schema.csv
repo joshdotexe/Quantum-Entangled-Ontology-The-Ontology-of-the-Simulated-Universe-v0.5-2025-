@@ -1,0 +1,6 @@
+
+column,dtype,required,notes
+region,str,True,Country/Region code or name
+year,int,True,Calendar year
+value,float,True,Indicator numeric value
+id,str,True,Indicator id (e.g., worldbank_GE.EST)
