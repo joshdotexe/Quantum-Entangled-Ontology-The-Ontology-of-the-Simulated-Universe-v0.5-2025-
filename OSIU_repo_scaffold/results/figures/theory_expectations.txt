@@ -1,0 +1,19 @@
+Expected Empirical Patterns for Validation
+------------------------------------------
+1) κ (Kappa): should increase or stabilize over time; positive correlation with ρ and φ.
+2) σ (Sigma): should gradually decline as κ and ρ improve (reduced moral entropy).
+3) ρ (Rho): should track κ (coherence → regularity/resilience).
+4) φ (Phi): should rise modestly with κ; mild oscillations are normal in adaptive pluralism.
+5) M(t): should show a smooth, upward-bright trend across years/regions (ethical stabilization).
+
+Quick Diagnostic Thresholds (heuristic)
+---------------------------------------
+• If σ rises while κ rises: mis-specified proxies or missing normalization.
+• If M(t) is flat/noisy: latent coupling incomplete or inputs sparse.
+• If φ collapses while κ, ρ stay high: ethical monoculture or reduced adaptability.
+• Coverage check: require ≥2 observed latents pre-imputation per row for trustworthy M.
+
+Notes
+-----
+These expectations follow the v0.8 FEP-constrained moral-informational model. They are descriptive
+guides, not pass/fail tests; use them to triage data issues and refine proxy mappings.

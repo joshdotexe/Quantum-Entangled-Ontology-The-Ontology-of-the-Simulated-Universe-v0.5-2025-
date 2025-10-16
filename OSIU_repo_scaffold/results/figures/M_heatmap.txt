@@ -1,0 +1,5 @@
+Figure: M(t) – Composite moral–informational gradient from {κ, σ, ρ, φ}. Lighter tones
+indicate higher ethical stability and informational coherence; darker tones indicate
+entropy/stress. Computed on normalized, weighted latents.
+
+Interpretation: A visible upward-bright trend/diagonal in M(t) across years and regions suggests theoretical support (convergence toward moral equilibrium). Noisy or flat gradients imply instability or incomplete latent alignment.

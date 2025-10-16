@@ -1,0 +1,19 @@
+{
+  "sigma_ids": [
+    "sigma_stub"
+  ],
+  "weights_point": [
+    1.0
+  ],
+  "weights_bootstrap_mean": [
+    1.0
+  ],
+  "weights_ci95_lo": [
+    1.0
+  ],
+  "weights_ci95_hi": [
+    1.0
+  ],
+  "loss": 0.0,
+  "boot_loss_mean": -9.877578753220877e-13
+}

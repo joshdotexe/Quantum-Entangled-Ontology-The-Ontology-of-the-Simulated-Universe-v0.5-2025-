@@ -1,0 +1,4 @@
+Figure: σ (Sigma) – Systemic suffering load (moral entropy). Higher values indicate
+greater disorder/instability. Inverse of coherence.
+
+Interpretation: Lower σ corresponds to reduced systemic suffering (moral entropy). The theory predicts σ should gradually decline as κ and ρ stabilize.

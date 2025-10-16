@@ -1,0 +1,5 @@
+Figure: Parameter sweep showing normalized M(t) under two balanced σ values (columns) and two growth
+rates (rows). Even very small adversity (σ_bal ≈ 0.12–0.22) sustains or improves M(t) relative to
+the parent baseline (dashed), provided adaptation growth is non-zero. Extremely low σ_bal or very
+low growth would flatten trajectories. This panel demonstrates robustness of the claim that non-zero
+σ at seeding preserves a viable moral gradient.

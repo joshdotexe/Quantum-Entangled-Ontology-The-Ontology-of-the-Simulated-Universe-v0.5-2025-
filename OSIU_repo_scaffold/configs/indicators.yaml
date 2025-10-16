@@ -12,8 +12,11 @@ latents:
   sigma:
     direction: negative
     indicators:
-      - { id: ucdp_conflict, weight: 0.6 }
-      - { id: happiness_inverse, weight: 0.4 }  # 1 - normalized happiness
+      - { id: sigma_stub, weight: 1.0 }    # Placeholder
+      # - { id: ucdp_conflict, weight: 0.6 }
+      # - { id: happiness_inverse, weight: 0.4 }  # 1 - normalized happiness
+      # - { id: diversity_index, weight: 0.25 }    # or inequality proxy until capability added
+      # - { id: capability_deprivation, weight: 0.25 }  # new
   rho:
     direction: positive
     indicators:
@@ -21,5 +24,6 @@ latents:
   phi:
     direction: positive
     indicators:
-      - { id: diversity_index, weight: 1.0 }    # Placeholder
+      - { id: phi_stub, weight: 1.0 }    # Placeholder
+      #- { id: diversity_index, weight: 1.0 }    # Placeholder
 
